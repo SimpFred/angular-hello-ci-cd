@@ -11,7 +11,7 @@ declare var window: any;
   styleUrl: './app.component.css',
 })
 export class AppComponent implements OnInit {
-  title = 'hello Ci-cd';
+  title = 'hello Ci cd';
 
   domain: string = '';
 
